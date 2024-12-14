@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsmadhavK18
-- 👀 I’m interested in codding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning AI & ML 
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me  madhav.kumar102004@gmail.com
